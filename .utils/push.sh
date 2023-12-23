@@ -31,7 +31,7 @@ if [[ $version != false ]]; then
 fi
 
 gh repo edit $REPO -d '🗒️🍎🐢 Manage MacOS Notes via cli: add, remove, check etc...'
-gh repo edit $REPO --add-topic macos,shell,bash,apple,terminal,applescript,darwin
+gh repo edit $REPO --add-topic macos,shell,bash,apple,terminal,applescript,darwin,notes,automate
 
 git add $git_add
 git commit -m "$git_commit"
