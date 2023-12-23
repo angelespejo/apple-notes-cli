@@ -35,11 +35,9 @@ CREATED BY ANGELO 🐦
 
 -->
 
-![Banner](docs/banner.png)
-
 # Manage Apple Notes.app via cli 🍎🐢
 
-![Preview](docs/preview.png)
+![Banner](docs/banner.png)
 
 ## 🗝 Prerequesites
 
@@ -50,10 +48,12 @@ CREATED BY ANGELO 🐦
 Copy this line in your terminal and run it.
 
 ```bash
-git clone https://github.com/angelespejo/apple-macos-cli.git umac && chmod a+x umac/* && cd umac && ./install.sh 
+git clone https://github.com/angelespejo/apple-macos-cli.git umac && chmod a+x apple-macos-cli/* && cd apple-macos-cli && ./install.sh 
 ```
 
 # ⚙️ Usage
+
+![Preview](docs/preview.png)
 
 ```bash
 apple-notes-cli --help
