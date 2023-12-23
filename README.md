@@ -48,7 +48,7 @@ CREATED BY ANGELO 🐦
 Copy this line in your terminal and run it.
 
 ```bash
-git clone https://github.com/angelespejo/apple-notes-cli.git umac && chmod a+x apple-notes-cli/* && cd apple-notes-cli && ./install.sh 
+git clone https://github.com/angelespejo/apple-notes-cli.git apple-notes-cli && chmod a+x apple-notes-cli/* && cd apple-notes-cli && ./install.sh 
 ```
 
 # ⚙️ Usage
