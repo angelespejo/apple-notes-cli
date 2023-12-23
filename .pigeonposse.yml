@@ -1,0 +1,21 @@
+###############################################################################
+# FOR PIGEONPOSSE WEB/S
+###############################################################################
+
+web:
+  
+  - id: apple-notes-cli
+    type: cli
+    version: '1.0.0'
+    description: '🗒️🍎🐢 Manage MacOS Notes via cli: add, remove, check etc...'
+    name: 'apple-notes-cli'
+    tags: 
+      - macos
+      - shell
+      - bash
+      - apple
+      - terminal
+      - applescript
+      - darwin
+    # logo: "https://github.com/angelespejo/umac/blob/main/docs/logo.png"
+    banner: "https://github.com/angelespejo/apple-notes-cli/blob/main/docs/banner.png"
