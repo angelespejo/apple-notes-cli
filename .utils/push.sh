@@ -11,6 +11,7 @@ version=${version:-"false"}
 git_add=${git_add:-"."}
 git_commit=${git_commit:-"Release commit 🌈⚡️"}
 
+
 if [[ $version != false ]]; then
 
 	echo "Add version '${version}' to file: $VERSION"
